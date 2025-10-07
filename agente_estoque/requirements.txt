@@ -1,0 +1,7 @@
+pandas==2.3.3
+openpyxl==3.1.5
+streamlit==1.50.0
+plotly==6.3.1
+SQLAlchemy==2.0.43
+psycopg2-binary==2.9.10
+llama-cpp-python==0.3.16
