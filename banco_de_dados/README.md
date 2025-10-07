@@ -14,6 +14,4 @@ Por questões da **LGPD**, as planilhas não estão disponíveis neste repositó
 - **Pandas** (manipulação de dados)
 - **SQLAlchemy** (ORM para banco de dados)
 
-[![Tutorial](https://img.youtube.com/vi/9X0AnZDSOak/maxresdefault.jpg)](https://www.youtube.com/watch?v=9X0AnZDSOak)
-
----
+<img width="959" height="502" alt="BD" src="https://github.com/user-attachments/assets/07708a22-3eb2-4ae8-b758-228b8fa1b656" />
