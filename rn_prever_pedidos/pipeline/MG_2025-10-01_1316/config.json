@@ -1,0 +1,23 @@
+{
+  "UF_ALVO": "MG",
+  "TIPOS_OK": [
+    "Simcard",
+    "Terminal"
+  ],
+  "BIN_SIZE": 200,
+  "H": 1,
+  "TEST_BDAYS": 16,
+  "CALIB_DAYS": 5,
+  "cfg_modelos": {
+    "Simcard": {
+      "input_size": 35,
+      "max_steps": 500,
+      "dropout": 0.05
+    },
+    "Terminal": {
+      "input_size": 84,
+      "max_steps": 900,
+      "dropout": 0.1
+    }
+  }
+}

@@ -1,0 +1,8 @@
+numpy==2.3.3
+pandas==2.3.3
+seaborn==0.13.2
+matplotlib==3.10.6
+scikit-learn==1.7.2
+neuralforecast==3.1.2
+streamlit==1.50.0
+sqlalchemy==2.0.4
