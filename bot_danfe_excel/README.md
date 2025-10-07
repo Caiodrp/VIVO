@@ -10,3 +10,5 @@ Ele utiliza apenas **Excel (VBA)** e uma **API de código de barras externo** pa
 
 - **Excel (VBA)** (automação de tarefas)
 - **API de Código de Barras Externo** (integração de código de barras)
+
+![print](https://github.com/user-attachments/assets/907e9464-3c20-4160-b737-37062525cf92)
