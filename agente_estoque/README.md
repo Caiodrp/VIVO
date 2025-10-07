@@ -3,6 +3,7 @@
 Este projeto é uma aplicação interativa desenvolvida com **Streamlit** para análise, movimentação e visualização de dados de estoque.  
 Ele utiliza um **modelo de linguagem local (.gguf)** para responder perguntas em linguagem natural sobre os dados, além de **Regex** para validação e manipulação de entradas.
 
+- **ATENÇÃO!** Modelo utilizado é o **llama-pro-8b-instruct.Q4_K_S.gguf** não incluso nesse repositório
 ---
 
 ## 🚀 Tecnologias utilizadas
