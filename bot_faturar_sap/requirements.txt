@@ -1,0 +1,5 @@
+streamlit==1.50.0
+pyperclip==1.11.0
+pyautogui==0.9.54
+pygetwindow==0.0.9
+pypiwin32==223
