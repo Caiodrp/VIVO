@@ -20,6 +20,8 @@ Ele utiliza um **modelo de linguagem local (.gguf)** para responder perguntas em
 - **Excel (.xlsx)**
 - **JSON**
 
+## TUTORIAL (clique para Youtube)
+
 [![Tutorial](https://img.youtube.com/vi/9X0AnZDSOak/maxresdefault.jpg)](https://www.youtube.com/watch?v=9X0AnZDSOak)
 
 ---
