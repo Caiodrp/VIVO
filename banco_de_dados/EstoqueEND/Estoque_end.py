@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from sqlalchemy import create_engine
 
@@ -5,7 +6,7 @@ from sqlalchemy import create_engine
 db_config = {
     'dbname': 'OperacaoVIVO',
     'user': 'postgres',
-    'password': 'Prosegurvivo',  # Sua senha do PostgreSQL
+    'password': os.getenv('DB_PASSWORD'),  # Var ENV
     'host': 'localhost',
     'port': 5432
 }
